@@ -7,4 +7,4 @@ simulations.
 
 ## Contents
 
-- [Cu Adatom Diffusion on Cu(100)](/adatom_cu/README.md)
+- [Cu Adatom Diffusion on Cu(100)](/adatom_cu/)
